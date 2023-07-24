@@ -18,7 +18,7 @@ To run this application locally or deploy it to your server, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone <repository-url>
+   git clone https://github.com/udaytripurani/OnlineBankingSystem-maven.git
    ```
 
 2. Navigate to the project directory:
@@ -62,14 +62,9 @@ We welcome contributions to enhance the functionality and usability of the Onlin
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-We would like to express our gratitude to [OpenAI](https://openai.com) for providing the advanced AI language model that assisted in creating this README.
 
 ## Contact
 
-For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact us at [your-email@example.com](mailto:udaytripurani04@gmail.com).
 
 ---
-
-Feel free to customize this template with additional information specific to your project and repository. Include details about how to set up the development environment, any known issues or troubleshooting tips, and anything else that could be helpful to users and potential contributors. Make sure to replace `<repository-url>` with the actual URL of your GitHub repository.
